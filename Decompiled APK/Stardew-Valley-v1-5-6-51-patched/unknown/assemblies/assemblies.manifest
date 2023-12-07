@@ -1,0 +1,20 @@
+Hash 32     Hash 64             Blob ID  Blob idx  Name
+0xdd02f76f  0xa1700a3502b2ca68  000      0000      StardewValley
+0x1e41f9c0  0x4263b348e3786a58  000      0001      MonoGame.Framework
+0xb5aaace0  0xdc4edf53d9c8062a  000      0002      BmFont
+0x787401c7  0x98367dbdce71a2b5  000      0003      Google.Android.Vending.Licensing
+0xc71a4669  0x5c96fd260152998d  000      0004      SkiaSharp
+0xee50f4ab  0xe89c6a121c68a38d  000      0005      StardewValley.GameData
+0x944643bd  0x3c5bf6bea8cd9cec  000      0006      Xamarin.Android.Support.DocumentFile
+0x87ec0538  0xf6a342c9470f6e60  000      0007      xTile
+0xb979e222  0xb98de304062ea945  000      0008      System.Runtime.Serialization
+0xdbe768e9  0x09be17343c0e7726  000      0009      System.Drawing.Common
+0xc8a662e9  0x77b654e585b55834  000      0010      Java.Interop
+0xcf3163e6  0x01accec39cafe242  000      0011      Mono.Android
+0x1bc4415d  0xe99c30c1484d7f4f  000      0012      mscorlib
+0xf76edc75  0x98f9bc61168392ac  000      0013      System.Core
+0x41761b2c  0xe03056ea4e39aa26  000      0014      System
+0x132b30dd  0x31042a9aade235bb  000      0015      System.Numerics
+0xcc6479a0  0x992e31d0412bf7fc  000      0016      System.Xml
+0xd128d608  0x5f6f85a57d108914  000      0017      System.Xml.Linq
+0xc197c562  0x8ac2470b209ebae3  000      0018      Mono.Security
